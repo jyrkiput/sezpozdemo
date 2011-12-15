@@ -1,5 +1,7 @@
 package sezpoz;
 
+import definition.Appender;
+import definition.Saveable;
 import net.java.sezpoz.Index;
 import net.java.sezpoz.IndexItem;
 

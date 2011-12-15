@@ -1,8 +1,7 @@
-package sezpoz;
+package definition;
 
 import net.java.sezpoz.Indexable;
 
-import java.awt.event.ActionListener;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
